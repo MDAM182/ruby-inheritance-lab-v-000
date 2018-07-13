@@ -10,5 +10,6 @@ class Student < User
   end
 
   def knowledge
+    @learn
   end
 end
