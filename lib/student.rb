@@ -9,5 +9,5 @@ class Student < User
     @knowledge << subjects
   end
 
-  def 
+  def knowledge
 end
